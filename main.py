@@ -6,8 +6,6 @@ Main Driver for running the implementation flow
 """
 if __name__ == "__main__":
     
-    #Code for initializing the linked list from the given csv file data
-    task_list = create_linked_list()
     
     #This function call will print all task ids of the tasks as pushed in the linked list
     print("Printing all nodes in task list :")
